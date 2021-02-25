@@ -1,0 +1,7 @@
+db:
+  host: '193.187.175.17'
+  username: 'auth'
+  password: 'zU8xbj342VKpguz1cBB46Yuu'
+  database: 'auth'
+  port: 6543
+  synchronize: true

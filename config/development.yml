@@ -1,0 +1,11 @@
+db:
+  host: '193.187.175.17'
+  username: 'auth'
+  password: 'zU8xbj342VKpguz1cBB46Yuu'
+  database: 'auth'
+  port: 6543
+  synchronize: true
+  url: 'postgres://buruwqsohslvlr:e802432f5bd66cc1ef5f889f63032478571fc44d64179878ba5336b9b02a4368@ec2-54-217-236-206.eu-west-1.compute.amazonaws.com:5432/d50jvv9oodkchl'
+
+jwt:
+  secret: 'sercretcode'
